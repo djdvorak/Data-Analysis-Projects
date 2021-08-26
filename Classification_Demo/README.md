@@ -18,4 +18,4 @@ In this Jupyter Notebook I use 5 different algorithms to try and predict the spe
 
 ![Accuracy Scores](classification_scores.png)
 
-We can see that each of the selected classificatino algorithms performs quite well on the small Iris data set. The K-means clustering algorithm performed the poorest and the K-nearest neighbours algorithm performed the best. Hopefully this has been a helpful overview of how to apply a range of algorithms to classify data.
+We can see that each of the selected classification algorithms performs quite well on the small Iris data set. The K-means clustering algorithm performed the poorest and the K-nearest neighbours algorithm performed the best. Hopefully this has been a helpful overview of how to apply a range of algorithms to classify data.

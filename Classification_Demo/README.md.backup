@@ -14,4 +14,8 @@ The four features in this data set are sepal length, sepal width, petal length a
 
 ![Pair plot](pairplot.png)
 
-In this Jupyter Notebook I use 5 different algorithms to try and predict the species of Iris flower based on the four features of the data. The algorithms I consider are logistic regression, K means, K nearest neighbours, support vector  and gaussian naive bayes classification. The accuracy scores for each algorithm are as fol
+In this Jupyter Notebook I use 5 different algorithms to try and predict the species of Iris flower based on the four features of the data. The algorithms I consider are logistic regression, K means, K nearest neighbours, support vector  and gaussian naive bayes classification. The accuracy scores for each algorithm are as follows:
+
+![Accuracy Scores](classification_scores.png)
+
+We can see that each of the selected classificatino algorithms performs quite well on the small Iris data set. The K-means clustering algorithm performed the poorest and the K-nearest neighbours algorithm performed the best. Hopefully this has been a helpful overview of how to apply a range of algorithms to classify data.
